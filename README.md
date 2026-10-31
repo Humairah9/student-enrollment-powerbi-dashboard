@@ -226,4 +226,4 @@ The dashboard shows a healthy overall picture with room to improve in specific p
 
 ## Author
 
-**[Your Name]** | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:you@example.com)
+**Aisha Hamza** | [LinkedIn](https://www.linkedin.com/in/aisha-hamza-a21188187/) | [Email](hamzaaisha798@gmail.com)
