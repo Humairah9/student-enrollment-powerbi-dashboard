@@ -212,7 +212,7 @@ The dashboard shows a healthy overall picture with room to improve in specific p
 ## How to View the Dashboard
 
 - **Quick look:** see the screenshots above.
-- **PDF:** [Download the dashboard as PDF](report/dashboard.pdf)
+- **PDF:** [Download the dashboard as PDF](Student_Enrollment_Dashboard_Report.pdf)
 - **Live version:** [Open the interactive dashboard](YOUR-PUBLISH-TO-WEB-LINK)
 - **Full file:** download the `.pbix` from `powerbi/` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
 
