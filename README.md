@@ -216,15 +216,6 @@ The dashboard shows a healthy overall picture with room to improve in specific p
 - **Live version:** [Open the interactive dashboard](https://www.loom.com/share/7fc209caf58e4dcc936a095a8cb9e81a)
 - **Full file:** download the `.pbix` from `powerbi/` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
 
-## How to Explore This Project
-
-- **Quick look:** see the query screenshots in [SQL Queries and Analysis](#sql-queries-and-analysis).
-- **PDF:** [Download the analysis as PDF](your-pdf-link)
-- **Walkthrough:** [Watch the query demo on Loom](https://www.loom.com/share/9b0700cc94b94a6e9b22ecfd940800c3)
-- **Full script:** [View all 25 queries](TWDP_SQL_Assignment.sql).
-- **Data:** [`Patients.csv` and `Doctors.csv`](data/) are the source tables.
-- **Run it yourself:** import the two CSV files into a SQL Server database named `TWDP Assignment`, then open the `.sql` script in [SQL Server Management Studio](https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms) (free, Windows only) and run the queries.
-
 ## Tools and Repository Structure
 
 **Tools:** Power BI Desktop, Power Query (M), DAX, Excel.
