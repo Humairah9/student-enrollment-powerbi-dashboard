@@ -209,6 +209,13 @@ The dashboard shows a healthy overall picture with room to improve in specific p
 - Program, gender, course and instructor overlap heavily, so differences between them cannot be attributed to a single factor.
 - The data covers about four weeks, and the last week is partial.
 
+## How to View the Dashboard
+
+- **Quick look:** see the screenshots above.
+- **PDF:** [Download the dashboard as PDF](report/dashboard.pdf)
+- **Live version:** [Open the interactive dashboard](YOUR-PUBLISH-TO-WEB-LINK)
+- **Full file:** download the `.pbix` from `powerbi/` and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
+
 ## Tools and Repository Structure
 
 **Tools:** Power BI Desktop, Power Query (M), DAX, Excel.
