@@ -19,7 +19,7 @@ Using Power BI, I analysed student enrollment data to uncover insights on course
 
 **Page 1: Overview**
 
-![Overview](images/dashboard_overview.png)
+![Overview](images/Student_enrolment_dashboard.png)
 
 **Page 2: Performance Analysis**
 
